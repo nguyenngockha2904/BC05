@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// stepup bootstrap
+import "../node_modules/bootstrap/dist/css/bootstrap.css";
+import "../node_modules/jquery/dist/jquery.slim";
+import "../node_modules/popper.js/dist/popper";
+import "../node_modules/bootstrap/dist/js/bootstrap";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
